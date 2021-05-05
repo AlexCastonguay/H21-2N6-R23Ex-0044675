@@ -1,0 +1,21 @@
+
+Chevaux : 
+	Nom, Poids, Prix de location
+	1- Tix, 652Kg, 125$/h
+	2- Tornade, 735Kg, 100$/h
+	3- Lucky, 444Kg, 200$/h
+
+Chiens :
+	Nom, Poids, Type de chien
+	1- Rex, 40Kg, de garde
+	2- Goofy, 16Kg, de compagnie
+
+Vaches :
+	Nom, Poids, Production laitière
+	1- Margot, 775Kg, 26 litres
+	2- Betty, 786Kg, 23.5 litres
+	3- Rosette, 762Kg, 20 litres
+	4- Réglisse, 790Kg, 24 litres
+
+
+
